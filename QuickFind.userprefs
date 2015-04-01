@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="QuickFind/QuickFind.fsproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="QuickFind/QuickFInd.fs">
+    <Files>
+      <File FileName="QuickFind/QuickFInd.fs" Line="41" Column="65" />
+      <File FileName="QuickFind/QuickFindTests.fs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
